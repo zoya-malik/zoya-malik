@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-[octocat-1742367172642](https://github.com/user-attachments/assets/247b6fb7-9ec0-4970-a02b-3b5ac4e0dfc2)
+<img src="https://github.com/user-attachments/assets/c1047f1e-9eb1-4edb-84df-3192e868993f" alt="Zoya Octocat" style="height: 200px; width:200px" align="left"/>
+
+
