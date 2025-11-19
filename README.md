@@ -1,33 +1,48 @@
-## Hi there 👋
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/c1047f1e-9eb1-4edb-84df-3192e868993f" alt="Zoya Octocat" style="height: 200px; width:200px" align="left"/>
+<img src="https://github.com/user-attachments/assets/c1047f1e-9eb1-4edb-84df-3192e868993f" width="170" style="border-radius: 50%;"/>
 
+# **Zoya Malik**
+**Data Science & Computer Science — University of Calgary**  
+Machine Learning • Forecasting • Data Visualization • Full-Stack Development
 
-# Zoya Malik  
-**B.Sc. Data Science & B.Sc. Computer Science, University of Calgary**  
-**Machine Learning • Statistical Analysis • Data Visualization • Full-Stack Development**
+<br/>
 
-## Technical Skills
-
-**Programming:** Python, SQL, JavaScript, R, ARM64 Assembly, Haskell  
-**Machine Learning:** Scikit-learn, PyTorch, StatsModels, SciPy  
-**Data & Visualization:** Pandas, NumPy, Plotly, Matplotlib, Seaborn, Power BI, Tableau  
-**Web Development:** Flask, React, REST APIs  
-**Tools:** Git, GitHub, GitHub Actions, Jupyter, Docker  
-**Cloud:** Microsoft Azure, Databricks
-
-## Current Focus
-
-- Deployment of data-driven applications using Flask and Docker  
-- Advanced forecasting (LSTMs, ARIMA, Prophet)  
-- Scalable analytics and model evaluation  
-- Expanding machine learning and full-stack portfolio projects  
-- Preparing for internships in Data Science, Machine Learning, and Analytics
+</div>
 
 ---
 
-## Contact
+##  Technical Skills
 
-**LinkedIn:** www.linkedin.com/in/zoyazmalik
-**Email:** *zoyazmalik@outlook.com*  
-**Portfolio:** Coming soon
+**Languages:** Python, SQL, JavaScript, R  
+**Machine Learning:** PyTorch, Scikit-learn, StatsModels, SciPy  
+**Data Tools:** Pandas, NumPy, Plotly, Matplotlib, Seaborn, Power BI, Tableau  
+**Web:** Flask, React, REST APIs  
+**Cloud:** Azure, Databricks  
+**Tools:** Git, GitHub Actions, Docker, Jupyter
+
+---
+
+##  Current Focus
+
+- Deploying data-centric applications  
+- Building forecasting models (LSTM, ARIMA, Prophet)  
+- Improving ML workflows & reproducibility  
+- Expanding full-stack + analytics projects  
+- Preparing for DS/ML internship roles  
+
+---
+
+##  Contact
+
+**LinkedIn:** https://www.linkedin.com/in/zoyazmalik  
+**Email:** zoyazmalik@outlook.com  
+**Portfolio:** Coming soon ✧
+
+---
+
+<div align="center">
+
+### 🌿 *Thank you for visiting my profile.*
+
+</div>
