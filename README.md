@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/c1047f1e-9eb1-4edb-84df-3192e868993f" width="150" style="border-radius: 50%; padding-left: 12px;" />
 
-I’m a Data Science + Computer Science student at the University of Calgary.  
+I’m a Data Science + Computer Science student at the University of Calgary, with concentrations in Visualizations & Analytics and Statistics.  
 I like clean visualizations, forecasting models, and building projects that feel organized, purposeful, and clear.
 
 <br clear="right" />
