@@ -1,44 +1,27 @@
-# Zoya Malik
+### Hi, I'm Zoya 👋
 
-Computer Science and Data Science at the University of Calgary — concentrations in Visualization & Analytics and Statistics.
+**CS + Data Science @ University of Calgary · Incoming Intern @ Calgary Chamber of Commerce**
 
----
+<br>
 
-## About
+<h3>Languages & Tools</h3>
 
-My primary interests are in statistical modelling, spatial data analysis, and machine learning specifically in contexts where the data is complex, the stakes are tangible, and the audience is not technical. I think a lot about the gap between what a model produces and what a decision-maker actually needs to understand.
+<img src="https://skillicons.dev/icons?i=python,r,java,mysql,sklearn,tensorflow,git,vscode&perrow=8" alt="Languages and Tools" />
 
-I am drawn to work that sits at the intersection of quantitative analysis and strategy: urban planning informed by mobility data, public health outcomes shaped by demographic trends, policy questions that require evidence behind them. The problems I find most compelling are the ones where getting the analysis wrong has consequences, and where communicating it clearly matters as much as the methodology itself.
+<br><br>
 
-On the technical side, I gravitate toward classical statistics and interpretable machine learning over black-box approaches — I would rather understand why a model works than simply report that it does. I also have a genuine interest in geospatial analysis and how location-based data can surface patterns that tabular data alone cannot.
+**GitHub Stats**
 
-Beyond the technical work, I am building toward roles in data analytics and business intelligence, with a longer-term interest in how data infrastructure and analytical thinking can be embedded into how organizations actually operate, not just as a reporting layer, but as part of how decisions get made.
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=zoya-malik&show_icons=true&hide_border=true&count_private=true&hide=issues&theme=default" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoya-malik&layout=compact&hide_border=true&theme=default" />
 
----
+<br>
 
-## Skills
+**Connect**
 
-**Languages:** Python, R, SQL, Java
+**Connect**
 
-**Data and Machine Learning:** pandas, NumPy, scikit-learn, XGBoost, tidyverse, dplyr
-
-**Statistical Methods:** Regression analysis, hypothesis testing, ANOVA, Mann-Whitney U, time series analysis
-
-**Visualization:** matplotlib, seaborn, ggplot2, Tableau, Plotly
-
-**Spatial Analysis:** QGIS, spatial bounding, point-in-polygon filtering
-
-**Web and Tools:** Django, Flask, Jupyter, Git, RStudio, VS Code
-
----
-
-## Certifications
-
-- Machine Learning Specialization - DeepLearning.AI
-- Microsoft Certified: Azure Fundamentals - Microsoft
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/zoyazmalik/) · [Portfolio](https://zoya-malik.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zoyazmalik)
+&nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://zoyazmalik.medium.com)
+&nbsp; Portfolio — coming soon
